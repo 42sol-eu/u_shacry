@@ -1,0 +1,29 @@
+= Golang Tutorial 
+
+. Java quick but too complex 
+. Python easy but slow and locked in an interpreter
+. C++ legacy issues and compile time is slow
+
+> [!IMPORTANT]
+> DLL hell ?!?
+
+New requirements highly parallel and scalable systems.
+
+== Go (Golang)
+
+. Strong and statically typed
+. Compiled language, but fast
+. Key features:
+  * First simplicity (is a feature) 
+  * Fast compilation times (design-build-test-loop)
+  * Garbage collected language 
+  * Built-in concurrency support (goroutines and channels)
+  * Compile to standalone binaries (!!! no dependencies -> version management at runtime is easy)
+. Excellent community support 
+
+=== Resources 
+
+. https://golang.org/[The Go Programming Language] - engineering homepage
+.. Try Go online: https://play.golang.org/[Go Playground]
+.. Installers 
+.. https://golang.org/doc/[Go documentation]
